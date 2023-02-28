@@ -1,0 +1,3 @@
+[submodule "CV workshop/roof_recognition"]
+	path = CV workshop/roof_recognition
+	url = https://github.com/AntonLiutov/roof_recognition
