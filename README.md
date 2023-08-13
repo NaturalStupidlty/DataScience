@@ -1,2 +1,2 @@
-# Data_Science
-Materials, notebooks and tasks
+# Data Science and Machine Learning
+Materials, notebooks, and tasks
